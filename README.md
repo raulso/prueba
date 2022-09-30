@@ -1,3 +1,5 @@
 # prueba 
 Este repositorio es una prueba con el que queremos practicar y aprender mas sobre el manejo de GIT
-Esto es en el local edicion  local segunda parte
+
+Esto es una edicion en la nube segunda parte
+git edicion rumbo a la nube
